@@ -1,0 +1,148 @@
+body {
+    background-color: rgb(168, 207, 194);
+}
+
+header {
+    background-image: url(/projet/img/woddPlank.jpg);
+    height: 40rem;
+    width: 90rem;
+    margin-left: 15rem;
+}
+
+nav {
+    float: right;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    margin-left: 5px;
+    font-family: 'Caveat Brush', cursive;
+    margin-right: 25px;
+}
+
+#cerf {
+    display: block;
+    width: 20%;
+    margin: auto; 
+    margin-left: 40%;
+}
+
+h1 {
+    font-family: 'Caveat Brush', cursive;
+    font-size: 265%;
+    margin-left: 5%;
+}
+
+.triangle {
+    position: relative;
+    top: -10rem;
+    left: 42.5rem;
+    display : inline-block;
+    height : 0;
+    width : 0;
+    border-top : 50px solid rgba(235, 16, 166, 0.524);
+    border-left : 50px solid transparent;
+    
+}
+
+#asperge {
+    float: right;
+    margin-right: 14rem;
+}
+
+.story {
+    float: left;
+    margin-left: 15rem;
+    height: 31rem;
+    width: 40rem;
+    background-color: rgb(224, 220, 215);
+}
+
+.bare {
+    height: 5px;
+    width: 20px;
+    margin-left: 19.5rem;
+    background-color: #d4276d;
+}
+
+.our {
+    text-transform: uppercase;
+    font-family: 'Caveat Brush';
+    font-size: 350%;
+    text-align: center;
+}
+
+.fare {
+    float: right;
+    margin-right: 14rem;
+    height: 34.5rem;
+    width: 43rem;
+    background-color: rgb(224, 220, 215);
+}
+
+#soap {
+    float: left;
+    margin-left: 15rem;
+    width: 47rem;
+}
+
+.freshb {
+    height: 5px;
+    width: 20px;
+    margin-left: 19.5rem;
+    background-color: #d4276d;
+}
+
+.local {
+    float: left;
+    margin-left: 15rem;
+    height: 31rem;
+    width: 43rem;
+    background-color: rgb(224, 220, 215);
+}
+
+.mouleb {
+    height: 5px;
+    width: 20px;
+    margin-left: 19.5rem;
+    background-color: #d4276d;
+}
+
+#moule {
+    float: right;
+    width: 39%;
+    margin-right: 14.5rem;
+}
+
+#eggs {
+    width: 75%;
+    height: auto;
+    margin-left: 15rem;
+
+}
+
+footer {
+    float: right;
+    background-color: white;
+    margin-right: 14.5rem;
+    width: 89.5rem;
+    height: 16rem;
+}
+
+.logo {
+    float: right;
+    margin-top: 7.5rem;
+    color: #d4276d;
+}
+
+.footerc {
+        height: 5px;
+        width: 20px;
+        margin-left: 8rem;
+        background-color: #d4276d;
+    }
+
+    #foot {
+        margin-left: 5rem;
+    }
